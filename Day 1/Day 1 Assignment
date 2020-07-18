@@ -1,0 +1,47 @@
+Blockchain Assignment Day 1
+================================================================
+Question 1:
+What is your understanding of Blockchain?
+
+Blockchain can be defined as a decentralized peer-to-peer file storage system where information can be stored permanently without the risk of manipulation (editing).
+================================================================
+
+Question 2:
+ What is the core problem Blockchain trying to solve?
+
+ Following are the core problems which blockchain system is trying to solve:
+ 1. Authenticity:
+    Data to reamin authentic (original) and no false information can be spread.
+
+ 2. Security:
+    Data to remain secure free from hackable centralized systems.
+    
+ 3. Powerful third party organizations:
+    to eliminate these third party organizations so that people can don't have to remain dependent on them for servies.
+================================================================
+
+Question 3:
+ What are the few features which Blockchain will give you?
+
+ Following are the features which blockchain provides:
+ 1. Verifiable Data
+ 2. Unchangeable Data (Non editable Data)
+ 3. Tameper-Proof system
+ 4. Immutable Data (Permanent data)
+ ================================================================
+
+ Question 4:
+ What all things does a Block contain?
+
+ A block contains the following elements:
+ 1. Block Number
+ 2. Transaction Records
+ 3. Previous block Signature
+ 4. Mining Key
+ ================================================================
+
+ Question 5:
+ How is the verifiability of Blockchain has been attained?
+
+ Blockchain is a decentralized peer-to-peer system therefore same set of data is stored among a number of different systems on the blockchain network therefore if a particular copy ever gets changed somehow then it can be immediately compared with the other copies and can be declared as corrupted, making the data on the whole network verifiable.
+ ================================================================ 
